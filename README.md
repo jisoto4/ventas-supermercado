@@ -1,0 +1,2 @@
+# ventas-supermercado
+Python + SQL
